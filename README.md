@@ -1,5 +1,5 @@
-# Author gender classification in Persian
-In this project, I have developed a 3-channel neural network model with keras to classify the author as Male/Female. 
+# Author gender classification (Persian - English)
+In this project, I have developed a 3-channel neural network model with keras to classify the author as Male/Female in both Persian and English. 
 
 ![CNNModelNew](https://user-images.githubusercontent.com/60043933/90345267-7d1a0580-e034-11ea-9180-3a6a8988fdcf.jpg)
 
